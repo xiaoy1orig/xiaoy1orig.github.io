@@ -53,4 +53,28 @@
     
   </entry>
   
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/09/16/hexo%20site/"/>
+    <id>http://yoursite.com/2019/09/16/hexo site/</id>
+    <published>2019-09-16T07:11:10.934Z</published>
+    <updated>2019-09-16T10:49:38.838Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="同步："><a href="#同步：" class="headerlink" title="同步："></a>同步：</h3><p>hexo generate = hexo g</p><p>hexo-deploy = hexo d</p><h3 id="新建："><a href="#新建：" class="headerlink" title="新建："></a>新建：</h3><p>hexo n “文章名”</p><p>Hex  n page “页面名”</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;同步：&quot;&gt;&lt;a href=&quot;#同步：&quot; class=&quot;headerlink&quot; title=&quot;同步：&quot;&gt;&lt;/a&gt;同步：&lt;/h3&gt;&lt;p&gt;hexo generate = hexo g&lt;/p&gt;
+&lt;p&gt;hexo-deploy = hexo d&lt;/p&gt;
+&lt;h3 id=&quot;新建：
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
 </feed>
