@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="www.baidu.com/"/>
   <updated>2020-05-03T09:32:49.087Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>www.baidu.com/</id>
   
   <author>
-    <name>xiaoyi7</name>
+    <name>xiaoY</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>emmmmm</title>
-    <link href="http://yoursite.com/2020/05/03/emmmmm/"/>
-    <id>http://yoursite.com/2020/05/03/emmmmm/</id>
+    <link href="www.baidu.com/2020/05/03/emmmmm/"/>
+    <id>www.baidu.com/2020/05/03/emmmmm/</id>
     <published>2020-05-03T09:30:21.000Z</published>
     <updated>2020-05-03T09:32:49.087Z</updated>
     
